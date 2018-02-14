@@ -1,0 +1,10 @@
+1) Types of Binding: Interpolation, property binding, event binding, Two-way binding(ngmodel)
+2) List binding: *ngFor, *ngIf, *ngClass
+3) Passing data between components: @input, @output parmaters
+4) Angular lifecycle hooks
+5) Creating Service and Dependency injection: Providers
+6) Async calls: Async with Promises, Async with observables
+7) Pipes
+8) Routing: simple routing, protected routes, routing with url
+
+
