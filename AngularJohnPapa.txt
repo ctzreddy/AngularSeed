@@ -1,0 +1,9 @@
+Simple binding
+Event binding
+Two-way binding - Bind with input
+		- Bind with ngModel
+Creating models
+List binding - ngFor, ngClass, ngif
+Multiple Components- Nested components, Input, Output
+Service and Dependency injection: Create services, inject service in constructor, lifecycle of anuglar components, Providers
+Async calls: Async with Promises, Async with Observables
